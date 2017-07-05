@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-component-customization",
+  "version": "1.0.0",
+  "description": "Customizing bootstrap components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltoncamara/bootstrap-components.git"
+  },
+  "keywords": [
+    "boostrap",
+    "components",
+    "html",
+    "css"
+  ],
+  "author": "Milton Camara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miltoncamara/bootstrap-components/issues"
+  },
+  "homepage": "https://github.com/miltoncamara/bootstrap-components#readme"
+}
